@@ -1,0 +1,7 @@
+#Sun Dec 01 23:15:55 GMT-03:00 2019
+base.0=C\:\\Users\\caroline.teles\\Desktop\\Faculdade\\6semestre\\DesenvolvimetoWebeparaaplicativosmoveis\\whether 2\\usjt_ccp3an_bua_weather_forecast\\usjt_ccp3an_bua_weather_forecast-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\caroline.teles\\Desktop\\Faculdade\\6semestre\\DesenvolvimetoWebeparaaplicativosmoveis\\whether 2\\usjt_ccp3an_bua_weather_forecast\\usjt_ccp3an_bua_weather_forecast-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
